@@ -1,2 +1,2 @@
 # amazon-eks-kubernetes
-Repositoorio destinado a projetos utilizando EKS
+Repositorio destinado a projetos utilizando EKS
